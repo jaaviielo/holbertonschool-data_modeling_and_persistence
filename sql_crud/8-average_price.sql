@@ -1,2 +1,2 @@
 SELECT AVG(price)
-FROM books:wq
+FROM books
